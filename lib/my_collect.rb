@@ -8,3 +8,5 @@ def collectmeth(array)
 end
 collection
 end
+
+collection

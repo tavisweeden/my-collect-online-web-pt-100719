@@ -1,4 +1,4 @@
-def collectmeth(array)
+def my_collect(array)
   ind = 0
   collection = []
   while ind < array.length

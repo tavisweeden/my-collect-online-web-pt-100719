@@ -5,7 +5,7 @@ def collectmeth(array)
   while ind < array.length
   collection << yield(array[ind])
   ind += 1
-binding.pry
 end
+binding.pry
 collection
 end
